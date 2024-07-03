@@ -9,9 +9,9 @@
 <h2>Contacts</h2>
 <ul>
     <li><b>Location:</b> Moskwa,RU</li>
-    <li><b>Phone:</b>89105166289</li>
+    <li><b>Phone:</b>  89105166289</li>
     <li><b>E-mail:</b> reick@yandex.ru</li>
-    <li><b>Discord:</b>#terykill</li>
+    <li><b>Discord:</b>  #terykill</li>
     <li><a href="https://t.me/T1t11tt/"><b>Telegram</b></a></li>
     <li><a href="https://github.com/TeryKill/"><b>GitHub</b></a></li>
 </ul>
